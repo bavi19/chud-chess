@@ -1,0 +1,74 @@
+{
+  "Pawn": {
+    "watertight_edges": true,
+    "consistent_winding": true,
+    "euler_number": 2,
+    "volume_mm3": 9964.4,
+    "triangles": 2112,
+    "size_mm": [
+      30.8,
+      30.8,
+      32.2
+    ]
+  },
+  "Rook": {
+    "watertight_edges": true,
+    "consistent_winding": true,
+    "euler_number": 2,
+    "volume_mm3": 20383.8,
+    "triangles": 2304,
+    "size_mm": [
+      35.0,
+      35.0,
+      42.0
+    ]
+  },
+  "Knight": {
+    "watertight_edges": true,
+    "consistent_winding": true,
+    "euler_number": 2,
+    "volume_mm3": 14066.7,
+    "triangles": 223004,
+    "size_mm": [
+      35.0,
+      35.0,
+      48.99
+    ]
+  },
+  "Bishop": {
+    "watertight_edges": true,
+    "consistent_winding": true,
+    "euler_number": 2,
+    "volume_mm3": 16997.9,
+    "triangles": 2304,
+    "size_mm": [
+      35.0,
+      35.0,
+      50.4
+    ]
+  },
+  "Queen": {
+    "watertight_edges": true,
+    "consistent_winding": true,
+    "euler_number": 2,
+    "volume_mm3": 21980.9,
+    "triangles": 2496,
+    "size_mm": [
+      37.8,
+      37.8,
+      51.8
+    ]
+  },
+  "King": {
+    "watertight_edges": true,
+    "consistent_winding": true,
+    "euler_number": 2,
+    "volume_mm3": 22159.4,
+    "triangles": 2880,
+    "size_mm": [
+      39.2,
+      39.2,
+      57.4
+    ]
+  }
+}

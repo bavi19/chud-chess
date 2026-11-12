@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "Chud Chess",
+  "description": {"": "Import Chud Chess v4, sized for an 18 inch board, into a new design."},
+  "version": "4.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}
